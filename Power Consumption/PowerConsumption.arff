@@ -1,4 +1,11 @@
-"hour","minute","amps_avg","kw_avg"
+@relation PowerConsumption
+
+@attribute hour numeric
+@attribute minute numeric
+@attribute amps_avg numeric
+@attribute kw_avg numeric
+
+@data
 0,0,0.155167,35.688333
 0,1,0.1855,42.665
 0,2,0.172667,39.713333
