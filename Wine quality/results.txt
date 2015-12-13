@@ -25,9 +25,9 @@ volatile acidity='(0.314667-0.412]' chlorides='(0.063343-0.080457]' density='(0.
 volatile acidity='(0.217333-0.314667]' residual sugar='(2.151429-2.568571]' 36 ==> quality=7 19    conf:(0.53)
 
 
-1. chlorides='(0.080457-0.097571]' alcohol='(9.375-9.7]' 130 ==> quality=5 99    conf:(0.76)
-2. alcohol='(9.375-9.7]' 358 ==> quality=5 250    conf:(0.7)
-3. density='(0.995518-0.99688]' alcohol='(9.375-9.7]' 121 ==> quality=5 84    conf:(0.69)
-4. alcohol='(9.05-9.375]' 156 ==> quality=5 108    conf:(0.69)
-5. density='(0.99688-0.998242]' alcohol='(9.375-9.7]' 152 ==> quality=5 102    conf:(0.67)
-6. pH='(3.248-3.375]' alcohol='(9.375-9.7]' 130 ==> quality=5 87    conf:(0.67)
+chlorides='(0.080457-0.097571]' alcohol='(9.375-9.7]' 130 ==> quality=5 99    conf:(0.76)
+alcohol='(9.375-9.7]' 358 ==> quality=5 250    conf:(0.7)
+density='(0.995518-0.99688]' alcohol='(9.375-9.7]' 121 ==> quality=5 84    conf:(0.69)
+alcohol='(9.05-9.375]' 156 ==> quality=5 108    conf:(0.69)
+density='(0.99688-0.998242]' alcohol='(9.375-9.7]' 152 ==> quality=5 102    conf:(0.67)
+pH='(3.248-3.375]' alcohol='(9.375-9.7]' 130 ==> quality=5 87    conf:(0.67)
