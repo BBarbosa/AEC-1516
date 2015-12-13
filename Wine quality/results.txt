@@ -1,0 +1,33 @@
+
+Winequality-Disc10:
+
+1. chlorides='(0.0719-0.1318]' sulphates='(0.497-0.664]' alcohol='(9.05-9.7]' 253 ==> quality=5 186    conf:(0.74)
+2. sulphates='(0.497-0.664]' alcohol='(9.05-9.7]' 309 ==> quality=5 225    conf:(0.73)
+3. chlorides='(0.0719-0.1318]' alcohol='(9.05-9.7]' 393 ==> quality=5 280    conf:(0.71)
+
+DiffDisc:
+1. alcohol='(9.05-9.7]' 514 ==> quality=5 358    conf:(0.7)
+2. chlorides='(0.0719-0.091867]' alcohol='(9.05-9.7]' 284 ==> quality=5 193    conf:(0.68)
+3. sulphates='(-inf-0.53875]' 302 ==> quality=5 202    conf:(0.67)
+4. sulphates='(0.53875-0.7475]' alcohol='(9.05-9.7]' 300 ==> quality=5 197    conf:(0.66)
+
+DiffDisc2:
+sulphates='(0.719667-0.775333]' alcohol='(10.675-11]' 20 ==> quality=6 16    conf:(0.8)
+total sulfur dioxide='(34.3-48.45]' sulphates='(0.775333-0.831]' 23 ==> quality=6 18    conf:(0.78)
+volatile acidity='(0.412-0.509333]' free sulfur dioxide='(4.55-8.1]' pH='(3.248-3.375]' 27 ==> quality=6 21    conf:(0.78)
+fixed acidity='(6.86-7.613333]' alcohol='(11.325-11.65]' 22 ==> quality=6 17    conf:(0.77)
+residual sugar='(1.734286-2.151429]' chlorides='(0.063343-0.080457]' sulphates='(0.775333-0.831]' 21 ==> quality=6 16    conf:(0.76)
+alcohol='(10.675-11]' 178 ==> quality=6 90    conf:(0.51)
+
+
+citric acid='(0.333333-0.4]' density='(0.994156-0.995518]' 28 ==> quality=7 17    conf:(0.61)
+volatile acidity='(0.314667-0.412]' chlorides='(0.063343-0.080457]' density='(0.994156-0.995518]' 28 ==> quality=7 16    conf:(0.57)
+volatile acidity='(0.217333-0.314667]' residual sugar='(2.151429-2.568571]' 36 ==> quality=7 19    conf:(0.53)
+
+
+1. chlorides='(0.080457-0.097571]' alcohol='(9.375-9.7]' 130 ==> quality=5 99    conf:(0.76)
+2. alcohol='(9.375-9.7]' 358 ==> quality=5 250    conf:(0.7)
+3. density='(0.995518-0.99688]' alcohol='(9.375-9.7]' 121 ==> quality=5 84    conf:(0.69)
+4. alcohol='(9.05-9.375]' 156 ==> quality=5 108    conf:(0.69)
+5. density='(0.99688-0.998242]' alcohol='(9.375-9.7]' 152 ==> quality=5 102    conf:(0.67)
+6. pH='(3.248-3.375]' alcohol='(9.375-9.7]' 130 ==> quality=5 87    conf:(0.67)
